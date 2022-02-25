@@ -1,14 +1,14 @@
 # Illusion of Speed Perception in Virtual Reality Environment while in Real Motion
 電動車椅子で走行中に聴覚刺激と視覚刺激を与えたときの速度感覚の調査実験時に使用
 
-- pygame_whill_JOY_ky_master.py
+### pygame_whill_JOY_ky_master.py
 
 WHILLに搭載されているUbuntuで起動すると接続したJoystickコントローラーでWHILLを操作できる  
 ※スティックを戻しても停止しないので□ボタンを押して停止する
 
-△ボタン：一定速度で走行する　　
-  l.147 等速条件(0.9m/s)　　
-  l.148 加速条件　　
+△ボタン：一定速度で走行する  
+  l.147 等速条件(0.9m/s)  
+  l.148 加速条件  
   l.149 減速条件
 
 ◯ボタン：加速(減速)を開始する　　
