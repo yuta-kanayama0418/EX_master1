@@ -3,7 +3,7 @@
 
 - pygame_whill_JOY_ky_master.py
 
-WHILLに搭載されているUbuntuで起動すると接続したJoystickコントローラーでWHILLを操作できる
+WHILLに搭載されているUbuntuで起動すると接続したJoystickコントローラーでWHILLを操作できる  
 ※スティックを戻しても停止しないので□ボタンを押して停止する
 
 △ボタン：一定速度で走行する　　
