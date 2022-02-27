@@ -23,7 +23,7 @@ WHILLに搭載されているUbuntuで起動すると接続したJoystickコン�
   
   ### Project/ex_master
   
-  Unityのプロジェクトフォルダ
+  Unityのプロジェクトフォルダ　event_collisionオブジェクト内のData_utilで各種設定を行う
   
 ![aaa](https://user-images.githubusercontent.com/63037880/155871882-de79d7fd-c146-492b-adc1-af2b43abf59e.png)
 
