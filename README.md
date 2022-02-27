@@ -27,10 +27,10 @@ WHILLに搭載されているUbuntuで起動すると接続したJoystickコン�
   
 ![aaa](https://user-images.githubusercontent.com/63037880/155871882-de79d7fd-c146-492b-adc1-af2b43abf59e.png)
 
-- Subject: この名前のフォルダに計測データがまとめられる．  
-- Test: 基準の走行を行う時にチェックをつける．9m走行時に音が鳴る．
-- Sound_flg：聴覚刺激のありなし．
-- Visual_stimuli：視覚刺激のありなし．
+- Subject: この名前のフォルダに計測データがまとめられる
+- Test: 基準の走行を行う時にチェックをつける　9m走行時に音が鳴る
+- Sound_flg：聴覚刺激のありなし
+- Visual_stimuli：視覚刺激のありなし
 - Vehicle_movement：実車両の走行タイプ
     - ACC：加速
     - DEC：減速
