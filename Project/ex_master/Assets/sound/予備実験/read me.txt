@@ -1,0 +1,7 @@
+最初の５sec切り取り
+
+acc: 4200-10000rpm(10sec)
+dec: 10000-4200rpm(10sec)
+
+acc for eq: 4200-5655rpm(10sec)
+dec for eq: 5655-4200rpm(10sec)
